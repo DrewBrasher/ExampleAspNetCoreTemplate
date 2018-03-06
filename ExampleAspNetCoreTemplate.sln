@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAspNetCoreTemplate.Web", "ExampleAspNetCoreTemplate.Web\ExampleAspNetCoreTemplate.Web.csproj", "{BA29E19E-2090-4A31-BB24-2E13AA72958E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAspNetCoreTemplate.Installer", "ExampleAspNetCoreTemplate.Installer\ExampleAspNetCoreTemplate.Installer.csproj", "{0F38E87A-8E8F-4016-A19D-C1BAAA96B946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA29E19E-2090-4A31-BB24-2E13AA72958E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA29E19E-2090-4A31-BB24-2E13AA72958E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA29E19E-2090-4A31-BB24-2E13AA72958E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA29E19E-2090-4A31-BB24-2E13AA72958E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F38E87A-8E8F-4016-A19D-C1BAAA96B946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F38E87A-8E8F-4016-A19D-C1BAAA96B946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F38E87A-8E8F-4016-A19D-C1BAAA96B946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F38E87A-8E8F-4016-A19D-C1BAAA96B946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0604B091-0CAF-4A36-9863-8B728DCCD9C0}
+	EndGlobalSection
+EndGlobal
